@@ -7,9 +7,8 @@ const app = express();
 const logger = require('morgan');
 app.use(logger("tiny"));
 
-app.get('/', (req,res,next)=>{
-    res.status(200).json({messgae:"hello from the / route"})
-})
+// handle the routes
+app.use('/',require('./routes/indexRouter.js'))
 
 
 // listening server always at the bottom
