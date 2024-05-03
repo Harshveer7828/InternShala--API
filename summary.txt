@@ -11,4 +11,9 @@
     * A good error is important which is understandable for the user as well as the developers.
     * Utils this folder contains the helper functions all the helper functions are in the utils.
     * To handle the asynchronous error we use TRY-CATCH try take the data and the catch catches the error for asynchronous erros.
-    
+
+-> Lecture - 3
+    Topic : Working on the dataBase Like creating the schema's and all.
+
+    * credentials like mongo link is in the .env file for privacy purpose.
+    *  
