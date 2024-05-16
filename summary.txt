@@ -16,4 +16,7 @@
     Topic : Working on the dataBase Like creating the schema's and all.
 
     * credentials like mongo link is in the .env file for privacy purpose.
-    * to create new data in the database body parser before the routes handling in app.js
+    * to create new data in the database body parser before the routes handling in app.js.
+
+-> Lecture - 4
+    Topic : 
