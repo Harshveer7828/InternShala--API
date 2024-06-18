@@ -19,4 +19,6 @@
     * to create new data in the database body parser before the routes handling in app.js.
 
 -> Lecture - 4
-    Topic : 
+    Topic : Sessions,JWT (JSON WEB TOKEN).
+
+    *express-session,cookie-parser,jsonwebtoken
